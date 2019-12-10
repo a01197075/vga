@@ -1,0 +1,6 @@
+NET "blue"  LOC = "r11"  ;
+NET "clk50_in"  LOC = "t9"  ;
+NET "green"  LOC = "t12"  ;
+NET "hs_out"  LOC = "r9"  ;
+NET "red"  LOC = "r12"  ;
+NET "vs_out"  LOC = "t10"  ;
